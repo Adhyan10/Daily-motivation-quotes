@@ -19,6 +19,7 @@ A simple React app that fetches motivational quotes and lets users like their fa
 - Plain JavaScript
 - CSS
 
+
 ## APIs Used
 
 - `https://api.quotable.io/random`
